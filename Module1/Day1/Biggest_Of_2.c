@@ -6,10 +6,10 @@ int main()
     scanf("%d %d",&a,&b);
     if(a>b)
     {
-        printf("A is big");
+        printf("a is big");
     }
     else
     {
-        printf("B is big");
+        printf("b is big");
     }
 }
